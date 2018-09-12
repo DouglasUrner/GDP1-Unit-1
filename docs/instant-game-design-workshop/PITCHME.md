@@ -4,6 +4,8 @@ In your notebooks write your thoughts on the question:
 
 **Why do we play games?**
 
+**Why do me make games?**
+
 Note:
 
 ---
