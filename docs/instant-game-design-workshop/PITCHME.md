@@ -30,6 +30,10 @@ Note:
 
 ### The (almost) Instant Game Design Workshop
 
+* New page in your notebook
+* Boardgame for 2 (or more) players
+* Race to the Finish
+
 Note:
 
 Quickly create a game prototype in four steps
@@ -38,17 +42,25 @@ Quickly create a game prototype in four steps
 
 ### Step 1: Understand the pattern
 
+Note: if you are stuck, draw a line.
+
 ---
 
 ### Step 2: Find a narrative
+
+Note: if you are stuck, punt...
 
 ---
 
 ### Step 3: How do you race?
 
+Note: if your are stuck, use a die or two
+
 ---
 
 ### Step 4: Add conflict
+
+Note: if you are stuck, look for natural conflict in the play test
 
 ---
 
