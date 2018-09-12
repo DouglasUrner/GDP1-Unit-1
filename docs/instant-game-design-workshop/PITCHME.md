@@ -18,4 +18,20 @@ Note:
 
 ### Unit 0 Wrap Up
 
+---
+
+### Unit 1 Introduction
+
+Note:
+
+---
+
+### Clean Up
+
+* Please clean up your area
+* Mark your game design with a sticky note at the top of the page
+* Place notebooks on the table by the door
+
+Note:
+
 
