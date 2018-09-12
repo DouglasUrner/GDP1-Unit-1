@@ -64,9 +64,19 @@ Note: if you are stuck, look for natural conflict in the play test
 
 ---
 
+### Playtest
+
+Note:
+
+---
+
 ### Reflection
 
-**What feelings, or emotions, did you want your players to experience as they played your game?**
+**What conflicts did you notice as you playtested?**
+
+Note:
+
+Dynamics? Aesthetics?
 
 ### Clean Up
 
