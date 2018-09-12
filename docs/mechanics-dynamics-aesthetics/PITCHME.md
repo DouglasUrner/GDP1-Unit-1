@@ -4,4 +4,12 @@ Note:
 
 ---
 
-###
+### Mechanics
+
+---
+
+### Dynamics
+
+---
+
+### Aesthetics
