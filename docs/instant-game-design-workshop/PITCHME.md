@@ -78,6 +78,8 @@ Note:
 
 Dynamics? Aesthetics?
 
+---
+
 ### Clean Up
 
 * Please clean up your area
