@@ -28,6 +28,34 @@ Note:
 
 ---
 
+### The (almost) Instant Game Design Workshop
+
+Note:
+
+Quickly create a game prototype in four steps
+
+---
+
+### Step 1: Understand the pattern
+
+---
+
+### Step 2: Find a narrative
+
+---
+
+### Step 3: How do you race?
+
+---
+
+### Step 4: Add conflict
+
+---
+
+### Reflection
+
+**What feelings, or emotions, did you want your players to experience as they played your game?**
+
 ### Clean Up
 
 * Please clean up your area
