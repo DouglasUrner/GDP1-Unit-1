@@ -1,0 +1,7 @@
+### Mechanics, Dynamics, Aesthetics
+
+Note:
+
+---
+
+###
