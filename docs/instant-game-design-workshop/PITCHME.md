@@ -71,6 +71,8 @@ Note: if you are stuck, look for natural conflict in the play test
 ### Clean Up
 
 * Please clean up your area
+  - Return dice, cards, markers, etc.
+  - Clean up scraps
 * Mark your game design with a sticky note at the top of the page
 * Place notebooks on the table by the door
 
