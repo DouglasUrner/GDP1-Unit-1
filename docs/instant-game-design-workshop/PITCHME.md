@@ -8,6 +8,8 @@ In your notebooks write your thoughts on the question:
 
 Note:
 
+T-P-S: collect ideas on whiteboard, photo after
+
 ---
 
 ### Agenda
@@ -70,7 +72,7 @@ Note: if you are stuck, look for natural conflict in the play test
 * Divide up the time so everybody's game gets tested
 * Testing is different than playing
 
-Note:
+Note: Refer back to ideas on the board - what do designers do?
 
 ---
 
