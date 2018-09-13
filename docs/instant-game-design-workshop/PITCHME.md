@@ -40,6 +40,8 @@ Note:
 
 Quickly create a game prototype in four steps
 
+About 5 minutes in, take stock of progress - offer ideas (what step are you on?)
+
 ---
 
 ### Step 1: Understand the pattern
@@ -50,7 +52,7 @@ Note: if you are stuck, draw a line.
 
 ### Step 2: Find a narrative
 
-Note: if you are stuck, punt...
+Note: if you are stuck, punt... Either you will find a narative
 
 ---
 
