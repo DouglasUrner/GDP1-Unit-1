@@ -66,15 +66,19 @@ Note: if you are stuck, look for natural conflict in the play test
 
 ### Playtest
 
-* Work with a partner (or two if 
+* Work with a partner (or two if we're an odd number)
+* Divide up the time so everybody's game gets tested
+* Testing is different than playing
 
 Note:
 
 ---
 
-### Reflection
+### Collect Your Thoughts
 
-**What conflicts did you notice as you playtested?**
+* Notes about what you learned in the playtest.
+* Changes and additions to rules.
+* Conflicts that could make the game more interesting.
 
 Note:
 
