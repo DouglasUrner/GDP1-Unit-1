@@ -68,6 +68,15 @@ Note: if you are stuck, look for natural conflict in the play test
 
 ---
 
+### The Steps
+
+1. Understand the pattern
+1. Find a narrative
+1. How do you race?
+1. Add conflict
+
+---
+
 ### Playtest
 
 * Work with a partner (or two if we're an odd number)
