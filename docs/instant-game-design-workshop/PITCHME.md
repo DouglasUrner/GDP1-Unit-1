@@ -78,11 +78,15 @@ Note: Refer back to ideas on the board - what do designers do?
 
 ---
 
-### Collect Your Thoughts
+### Clean Up & Collect Your Thoughts
 
-* Notes about what you learned in the playtest.
+Return materials & pick up a sticky note.
+
+Make notes:
+* What did you learn in the playtest.
 * Changes and additions to rules.
 * Conflicts that could make the game more interesting.
+* Mark your game design with a sticky note at the top of the page
 
 Note:
 
@@ -95,7 +99,6 @@ Dynamics? Aesthetics?
 * Please clean up your area
   - Return dice, cards, markers, etc.
   - Clean up scraps
-* Mark your game design with a sticky note at the top of the page
 * Place notebooks on the table by the door
 
 Note:
