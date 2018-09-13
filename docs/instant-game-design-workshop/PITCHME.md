@@ -4,7 +4,7 @@ In your notebooks write your thoughts on the question:
 
 **Why do we play games?**
 
-**Why do me make games?**
+**Why do we make games?**
 
 Note:
 
@@ -65,6 +65,8 @@ Note: if you are stuck, look for natural conflict in the play test
 ---
 
 ### Playtest
+
+* Work with a partner (or two if 
 
 Note:
 
