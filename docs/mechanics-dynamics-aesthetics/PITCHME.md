@@ -42,7 +42,7 @@ Note:
 * Dynamics:
 * Aesthetics: the *whole* experience of playing the game - not just the *visual* aesthetics (not the usual definition).
 
-Note: Lantz, 2015
+Lantz, 2015
 
 ---
 
@@ -58,6 +58,8 @@ Note: Lantz, 2015
 1. Submission: Game as "mindless" pastime
 
 Note: The critical idea is not '8' but that we can distinguish different kinds of fun – there may well be a 9th or 10th or 42nd.
+
+LeBlanc, 2004
 
 ---
 
