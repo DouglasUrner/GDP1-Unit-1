@@ -22,7 +22,7 @@ Note: The result of how the players engage with the game's mechanics (the rules 
 
 Dynamics emerge from mechanics
 
-Note: Baseball has a mechanic - you run counter-clockwise around the bases. Hockey has no mechanic telling you how to skate backwards, but you see players doing it – that ***dynamic*** arrises because of the mechanics of the game.
+Baseball has a mechanic - you run counter-clockwise around the bases. Hockey has no mechanic telling you how to skate backwards, but you see players doing it – that ***dynamic*** arrises because of the mechanics of the game.
 
 ---
 
