@@ -1,2 +1,3 @@
-# Module-Template
-Template Canvas module hosted on Canvas using GitHub Pages &amp; GitPitch presentations.
+# Game Design & Proramming 1: Critical Thinking About Games
+
+Introduction to game theory and game design technique.
