@@ -73,7 +73,13 @@ Note:
 
 Lantz, 2015
 
+---
 
+### Wrap Up
+
+* Your definitions of **Mechanics, Dynamics,** and **Aesthetics**
+* Make sure there is a sticky note marking your game design (from last class).
+* Clean up area
 
 ---
 
