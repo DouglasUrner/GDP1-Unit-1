@@ -25,7 +25,7 @@ What do your lists have in common?
 
 Note: The critical idea is not '8' but that we can distinguish different kinds of fun – there may well be a 9th or 10th or 42nd.
 
-LeBlanc, 2004
+LeBlanc, 2004: http://algorithmancy.8kindsoffun.com/
 
 **Categorize**
 
