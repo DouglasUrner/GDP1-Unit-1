@@ -6,6 +6,33 @@ Note: Start from the players point of view with the aesthetics.
 
 ---
 
+### Discuss
+
+What do your lists have in common?
+
+---
+
+### Aesthetics: 8 Kinds of Fun
+
+1. Sensation: Game as sense-pleasure
+1. Fantasy: Game as make-believe
+1. Narrative: Game as unfolding story
+1. Challenge: Game as obstacle course	 	
+1. Fellowship: Game as social framework
+1. Discovery: Game as uncharted territory
+1. Expression: Game as soap box
+1. Submission: Game as "mindless" pastime
+
+Note: The critical idea is not '8' but that we can distinguish different kinds of fun – there may well be a 9th or 10th or 42nd.
+
+LeBlanc, 2004
+
+**Categorize**
+
+Shuffle groups to find peers with the same or similar games.
+
+---
+
 ### Mechanics
 
 What is possible: the rules & resources of the game.
@@ -46,22 +73,7 @@ Note:
 
 Lantz, 2015
 
----
 
-### Aesthetics: 8 Kinds of Fun
-
-1. Sensation: Game as sense-pleasure
-1. Fantasy: Game as make-believe
-1. Narrative: Game as unfolding story
-1. Challenge: Game as obstacle course	 	
-1. Fellowship: Game as social framework
-1. Discovery: Game as uncharted territory
-1. Expression: Game as soap box
-1. Submission: Game as "mindless" pastime
-
-Note: The critical idea is not '8' but that we can distinguish different kinds of fun – there may well be a 9th or 10th or 42nd.
-
-LeBlanc, 2004
 
 ---
 
