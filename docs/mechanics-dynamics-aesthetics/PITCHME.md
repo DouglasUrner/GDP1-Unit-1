@@ -14,12 +14,6 @@ In board games the mechanics are completely visible – they are the rules and 
 
 ---
 
-### Mechanics
-
-Note:
-
----
-
 ### Dynamics
 
 What actually happens: 
