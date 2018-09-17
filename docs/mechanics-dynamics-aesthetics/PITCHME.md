@@ -1,6 +1,8 @@
 ### Mechanics, Dynamics, Aesthetics
 
-Note:
+**Warm Up:** Think about a game that you know well and start your notes for today with a list of what your ***experience*** as you play the game.
+
+Note: Start from the players point of view with the aesthetics.
 
 ---
 
