@@ -12,6 +12,10 @@ Note:
 
 ---
 
+![Snakes and Ladders board](assets/Snakes & Ladders.png)
+
+---
+
 ## Review Snakes & Ladders
 
 * What is the *core mechanic* of the game?
