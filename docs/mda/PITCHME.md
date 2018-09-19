@@ -12,7 +12,7 @@ Note:
 
 ---
 
-![Snakes and Ladders board](docs/mda/assets/snakes-and-ladders.png)
+![Snakes and Ladders board](docs/mda/assets/snakes-and-ladders-400x400.png)
 
 ---
 
