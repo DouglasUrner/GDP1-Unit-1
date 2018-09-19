@@ -1,6 +1,6 @@
 [Snakes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders) is an ancient game of chance from India. It was introduced into the US in 1943 as *Chutes and Ladders* by Milton Bradley.
 
-![Snakes and Ladders board from 19th century India](https://en.wikipedia.org/wiki/File:Snakes_and_Ladders.jpg)
+![Snakes and Ladders board from 19th century India](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Snakes_and_Ladders.jpg/498px-Snakes_and_Ladders.jpg)
 
 As designed, Snakes and Ladders is a *game of chance* – the outcome is determined entirely by chance (the roll of the dice). This makes it an excellent family game, but it often feels boring to older players. Today we will design a set of *house rules* with the goal of making Snakes and Ladders into a game of strategy, a game where there players make decisions that determine the outcome of the game.
 
