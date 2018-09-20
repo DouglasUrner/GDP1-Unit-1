@@ -17,3 +17,7 @@ Use a full blank page in your notebook for the design. Before you turn your note
 ### Playtest
 
 After creating you game test your game with a partner (ideally) or two. Divide up the time so that each designer's game is tested. As you test make notes about your rules and how the game works.
+
+### Reflection Question
+
+After testing your game, what opportunities did you find for "adding conflict?"
