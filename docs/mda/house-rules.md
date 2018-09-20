@@ -10,6 +10,6 @@ Using the original gameboard, develop new mechanics to make Snakes and Ladders a
 
 Working in groups of 2 to 4 people:
 * Make notes – start with today's date, a heading (e.g., "House Rules For Snakes and Ladders"), and the names of the people you are working with.
-* Brainstorm a list of ideas for ways to add meaningful decisions, decisions that can change the outcome of the game, to the game. Keep track of the ideas that your group comes up with in your notes.
+* Brainstorm a list of ideas for ways to add meaningful decisions, decisions that can change the outcome of the game, to the game. Keep track of the ideas that your group comes up with in your notes. Beware of changes that make the game harder or more complicated, but which don't actually create ways to change the outcome of the game.
 * Pick ***one*** idea from your group's list and develop it into a mechanic that seems like it would move the game towards being a game of strategy rather than a game of chance.
 * Test the mechanic that your group selected to see how it works.
