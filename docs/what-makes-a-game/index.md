@@ -1,4 +1,18 @@
-Read the article [What Makes a Game?](https://www.gamasutra.com/view/feature/167418/what_makes_a_game.php) This site, Gamasutra is a website for professional game designers. Or, if you would prefer to read it on paper,  I have some paper copies. For your submission for this assignment answer the questions below in a Google Doc (or the editor of your choice) and attach them as a PDF:
+The question "what is a game?" can be surprisingly hard to answer. But it is worth the effort for several reasons:
+
+* It helps us to clarify our purpose as we design and critique games.
+* It makes it easier to communicate with other designers
+* It helps us to understand the history and development of games - both electronic and physical.
+* So before going on to the next part of this activity -
+
+Start a new page in your notebook, then:
+
+* Start by taking a few minutes to think about and then write down, in your own words, a short paragraph to answer the question "what is a game?" Tips: avoid using the word game (beyond "A game is…"); don't just describe the physical components of a game.
+* Then, show your answer to a neighbor and have them "test" your answer by trying to think of examples that fit your definition, but which don't seem to be games - for example, if your definition was "a fun pastime," your neighbor might ask "is riding a bike a game?"
+Make sure your notes include who checked your ideas and their questions.
+* Finally, if necessary revise your definition.
+
+Then, read the article [What Makes a Game?](https://www.gamasutra.com/view/feature/167418/what_makes_a_game.php) This site, Gamasutra is a website for professional game designers. Or, if you would prefer to read it on paper,  I have some paper copies. For your submission for this assignment answer the questions below in a Google Doc (or the editor of your choice) and attach them as a PDF:
 
 How does Keith Burgun define a game?
 What does he say are the qualities of decisions in a "good game?" Can you give some examples from games that you play?
