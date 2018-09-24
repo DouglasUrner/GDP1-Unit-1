@@ -12,7 +12,7 @@ Start a new page in your notebook, then:
 Make sure your notes include who checked your ideas and their questions.
 * Finally, if necessary revise your definition.
 
-Then, read the article [What Makes a Game?](https://www.gamasutra.com/view/feature/167418/what_makes_a_game.php) This site, Gamasutra is a website for professional game designers. Or, if you would prefer to read it on paper,  I have some paper copies. For your submission for this assignment answer the questions below in a Google Doc (or the editor of your choice) and attach them as a PDF:
+Then, read Keith Burgon's article [What Makes a Game?](https://www.gamasutra.com/view/feature/167418/what_makes_a_game.php) This site, Gamasutra is a website for professional game designers. Or, if you would prefer to read it on paper,  I have some paper copies. For your submission for this assignment answer the questions below in a Google Doc (or the editor of your choice) and attach them as a PDF:
 
 * How does Keith Burgun define a *game?* See if you can explain his ideas in your own words.
 * What does he say are the qualities of decisions in a "good game?" Can you give some examples from games that you play?
@@ -20,6 +20,8 @@ Then, read the article [What Makes a Game?](https://www.gamasutra.com/view/featu
 * What characteristics of some current games does he think tend to reduce the "meaning" of their in-game decisions?
 * What does Keith propose that designers should be doing?
 * Do you agree? Why or why not? Use examples from the games that you play.
+
+After reading the article, have your ideas about what makes a game a game changed?
 
 For another take on how to describe what makes a game take a look at the Understanding Games series of "playings" (as opposed to readings) at Kongregate (they try hard to get you to create an account, but you can ignore them):
 
