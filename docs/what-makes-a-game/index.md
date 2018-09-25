@@ -19,9 +19,9 @@ Then, read Keith Burgon's article [What Makes a Game?](https://www.gamasutra.com
 * What distinguishes *simulators, contests,* and *puzzles* from games? Make a chart with examples of each.
 * What characteristics of some current games does he think tend to reduce the "meaning" of their in-game decisions?
 * What does Keith propose that designers should be doing?
-* Do you agree? Why or why not? Use examples from the games that you play.
+* Are decisions an important part of a game to you? Why or why not? Use examples from the games that you play.
 
-After reading the article, have your ideas about what makes a game a game changed?
+After reading the article, how have your ideas about what makes a game a game changed?
 
 For another take on how to describe what makes a game take a look at the Understanding Games series of "playings" (as opposed to readings) at Kongregate (they try hard to get you to create an account, but you can ignore them):
 
