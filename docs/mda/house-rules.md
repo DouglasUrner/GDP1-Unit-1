@@ -1,4 +1,4 @@
-[Snakes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders) is an ancient game of chance from India. It was introduced into the US in 1943 as *Chutes and Ladders* by Milton Bradley.
+[Snakes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders) is an ancient game of chance from India. It was brought to England during the Imperial Age. It was introduced into the US in 1943 as *Chutes and Ladders* by Milton Bradley.
 
 ![Snakes and Ladders board from 19th century India](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Snakes_and_Ladders.jpg/498px-Snakes_and_Ladders.jpg)
 
