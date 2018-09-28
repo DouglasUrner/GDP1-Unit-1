@@ -10,6 +10,10 @@ For example making *procedure* into *procedural*?
 
 ---
 
+### What Elements Can You Think Of?
+
+---
+
 ### The List:
 
 * Players
@@ -18,3 +22,6 @@ For example making *procedure* into *procedural*?
 * Resources & Resource management
 * Game State
 * Sequencing
+* Player Interaction
+* Theme
+* Systems
