@@ -143,6 +143,7 @@ Tools as a vocabulary for analysis present a way to focus on what player experie
 Games are not books; games are not movies. In those media, the tools used (camera placement, cuts, zooms, music cues, switching narrators, and so on) are used to manipulate viewers or readers, to make them feel or react exactly the way the director or author wants them to. I believe the challenge and promise of computer game design is that our most important tools are the ones that involve and empower players to make their own decisions. That is something that allows each player to explore him or herself, which is something our medium is uniquely equipped to do.
 
 ![](http://www.gamasutra.com/db_area/images/features/19990716/0716church_ff2_small.jpg)
+
 The outcome of consequence in Final Fantasy VIII.
 
 So I look to tools to help me understand that aspect of game design and to maximize the player's feeling of involvement and self. But that's because that's the kind of game I want to make. Each designer must choose the game he or she wants to create and use the tools available to craft that experience.
