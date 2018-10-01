@@ -9,7 +9,7 @@ For example:
 * *Season* and *seasonal*
 * *Tribe* and *tribal*
 
-How about *Form* + *al* - what do you think that means?
+How about *Form* + *al* - what do you think *formal* could mean? Besides well dressed...
 
 ---
 
