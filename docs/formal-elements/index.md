@@ -25,4 +25,4 @@ One way to analyze games in by looking at their *formal elements* and the way th
 * Make it grapically interesting
 
 * [2nd Block Notes](https://docs.google.com/document/d/15K-QAoKl52iimNyJsM7xsjj7U5pcvdVyDFViqc9g6as/edit?usp=sharing)
-* [4th Block Notes]
+* [4th Block Notes](https://docs.google.com/document/d/1TlwZSDr7-Qf_BOkC_b-iXx_QQCXZ-SKNJ4z636U4mAc/edit?usp=sharing)
