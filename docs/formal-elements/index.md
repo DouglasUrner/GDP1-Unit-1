@@ -10,6 +10,8 @@ The articles and webpages linked below are a good way to expand your ideas about
 
 [The formal systems of games and game design atoms](http://www.acagamic.com/courses/infr1330-2014/the-formal-systems-of-games-and-game-design-atoms/)
 
+[Dramatic Elements of Games and Narrative Design](http://www.acagamic.com/courses/infr1330-2014/dramatic-elements-of-games-and-narrative-design/)
+
 [Formal Abstract Design Tools](http://www.gamasutra.com/view/feature/131764/formal_abstract_design_tools.php)
 
 ### Tracy Fullerton's Elements
