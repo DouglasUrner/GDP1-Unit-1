@@ -1,6 +1,6 @@
 # Formal Abstract Design Tools
 
-Doug Church, 16 July 1999
+**Doug Church, 16 July 1999**
 
 What is a modern computer game made of? It fuses a technical base with a vision for the player's experience. All of the disciplines involved (design, art, audio, levels, code, and so on) work together to achieve this synthesis.
 
