@@ -30,7 +30,7 @@ Note:
 
 ---
 
-### The List:
+### Tracy Fullerton's List:
 
 * Players
 * Objectives (goals)
@@ -41,6 +41,8 @@ Note:
 * Player Interaction
 * Theme
 * Systems
+
+Note: from *Game Design Workshop: Designing, Prototyping, and Playtesting Games*
 
 ---
 
