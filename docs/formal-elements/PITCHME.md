@@ -22,6 +22,8 @@ Note:
 
 ### What Elements Can You Think Of?
 
+Start with elements that are present in every game, then move on to elements that may be optional.
+
 Note:
 
 * In your notes make a list of the elements you can think of.
