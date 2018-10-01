@@ -1,5 +1,7 @@
 # Formal Abstract Design Tools
 
+Doug Church, 16 July 1999
+
 What is a modern computer game made of? It fuses a technical base with a vision for the player's experience. All of the disciplines involved (design, art, audio, levels, code, and so on) work together to achieve this synthesis.
 
 In most disciplines, industry evolution is obvious: The machines we play on are far more powerful, screens have better resolution and more colors, paint and modeling tools are more sophisticated, audio processing is faster, and sound cards are more capable. Technical issues not even in our vocabulary ten years ago are solved and research continues with essentially infinite headroom. The technical base on which games stand (game code and content creation tools) is evolving.
@@ -45,3 +47,5 @@ Similarly, tools don't always work well together — sometimes they conflict. Th
 So we need a design vocabulary, a set of tools underlying game design practice. There is no correct or official method to identify them. One easy way to start looking is to take a good game and describe concretely some of the things that work well. Then, from concrete examples of real game elements, we can attempt to abstract and formalize a few key aspects and maybe find ourselves a few tools.
 
 There isn't enough space here to exhaustively analyze each tool or game — the goal here is to give an overview of the ideas behind and uses of FADT, not a complete view of everything. With that in mind, we'll start with a quick tour of some games, tools, and ideas. Since we are looking for examples of good game design, we'll start by examining *Mario 64*. Once we have explored some concrete aspects of the game itself, we'll step back and start looking for things to abstract and formalize that we can apply to other genres and titles.
+
+From: http://www.gamasutra.com/view/feature/131764/formal_abstract_design_tools.php
