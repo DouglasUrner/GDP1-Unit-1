@@ -35,22 +35,23 @@ Note:
 * Players
 * Objectives (goals)
 * Rules (mechanics)
-* Resources & Resource management
+* Resources & Resource Management
+* Conflict & Alliance (player interaction)
+* Outcome(s)
+* Theme (narrative, backstory, setting, lore)
 * Game State
-* Sequencing
-* Player Interaction
-* Theme
-* Systems
 
-Note: from *Game Design Workshop: Designing, Prototyping, and Playtesting Games*
+Note: from *Game Design Workshop: Designing, Prototyping, and Playtesting Games* as modified by Tannan Raju in [Formal Elements of Games](http://aboutgamedesign.blogspot.com/2013/05/formal-elements-of-games.html) and me. Also see [Defining Formal Elements](https://stardock.cs.virginia.edu/cs2501/slides/CS2501-FormalElements.pdf)
 
 ---
 
 ### Poster
 
+* Name your element
 * Explain your element
   - Examples
 * Is it always required?
 * Common patterns
+* Make it grapically interesting
 
 Note: use your own words
