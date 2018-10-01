@@ -4,6 +4,8 @@ One way to analyze games in by looking at their *formal elements* and the way th
 
 [Formal Abstract Design Tools](http://www.gamasutra.com/view/feature/131764/formal_abstract_design_tools.php)
 
+[The formal systems of games and game design atoms](http://www.acagamic.com/courses/infr1330-2014/the-formal-systems-of-games-and-game-design-atoms/)
+
 ### Tracy Fullerton's Elements
 
 * Players
