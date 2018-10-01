@@ -8,6 +8,9 @@ For example:
 * *Nature* and *natural*
 * *Season* and *seasonal*
 * *Tribe* and *tribal*
+
+How about *Form* + *al* - what do you think that means?
+
 ---
 
 ### The Formal Elements of Games
