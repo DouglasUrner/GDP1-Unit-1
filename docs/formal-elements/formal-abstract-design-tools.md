@@ -91,6 +91,7 @@ Often, however, RPGs are less direct about consequence. For example, the player 
 There are also cases where the consequence is perceivable, but something still seems wrong. Perhaps there's a fork in the road, where players must choose a direction. As a player travels down the chosen path, an encounter with bandits occurs, and the bandit leader proclaims, "You have entered the valley of my people; face my wrath." This is clearly a consequence, but not of a decision players thought they were making. Players bemoan situations where they are forced into a consequence by the designers, where they are going along playing a game and suddenly are told, "You had no way of knowing, but doing thing X results in horrible thing Z."
 
 ![](http://www.gamasutra.com/db_area/images/features/19990716/0716church_ff1_small.jpg)
+
 The story unfolds in Final Fantasy VIII
 
 Here we can look at how Mario uses the perceivable consequence tool in order to gain some insight into how to make it work for us without frustrating players. In Mario, consequences are usually the direct result of a player decision. Rarely do players following a path through the game suddenly find themselves in a situation where the game basically says, "Ha ha, you had no way of knowing, but you should have gone left," or "Dead end! Now you get crushed." Instead, they see they can try a dangerous jump or a long roundabout path or maybe a fight. And if it goes wrong, they understand why.
