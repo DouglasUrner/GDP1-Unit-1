@@ -37,7 +37,7 @@ The articles and webpages linked below are a good way to expand your ideas about
 
 Start off your poster design in your notebooks - collect ideas for what will go on your poster and make sketches of what the poster might look like. You will be practicing the design process and you will avoid false starts - in the end you will save time.
 
-I encourage you to create the poster digitally - your final product will be a PDF file, you could create the poster using Microsoft Word or Google Docs, or Slides or PowerPoint or Photoshop or...
+I encourage you to create the poster digitally - your final product will be a PDF file, you could create the poster using Microsoft Word or Google Docs, or Slides or PowerPoint or Photoshop or... If you decide to draw you poster by hand on paper, take care to get spelling and captialization right and then photograph the poster and use that for your submission.
 
 ### Shared Notes
 
