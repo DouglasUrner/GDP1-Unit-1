@@ -35,6 +35,10 @@ The articles and webpages linked below are a good way to expand your ideas about
 * Common patterns
 * Make it grapically interesting
 
+Start off your poster design in your notebooks - collect ideas for what will go on your poster and make sketches of what the poster might look like. You will be practicing the design process and you will avoid false starts - in the end you will save time.
+
+I encourage you to create the poster digitally - your final product will be a PDF file, you could create the poster using Microsoft Word or Google Docs, or Slides or PowerPoint or Photoshop or...
+
 ### Shared Notes
 
 * [2nd Block Notes](https://docs.google.com/document/d/15K-QAoKl52iimNyJsM7xsjj7U5pcvdVyDFViqc9g6as/edit?usp=sharing)
