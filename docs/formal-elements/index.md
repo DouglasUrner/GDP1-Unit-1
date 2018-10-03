@@ -39,6 +39,8 @@ Start off your poster design in your notebooks - collect ideas for what will go 
 
 I encourage you to create the poster digitally - your final product will be a PDF file, you could create the poster using Microsoft Word or Google Docs, or Slides or PowerPoint or Photoshop or... If you decide to draw you poster by hand on paper, take care to get spelling and captialization right and then photograph the poster and use that for your submission.
 
+If you are making the poster digitally, set up to use large paper (11 x 17 also known as *tabloid*).
+
 ### Research Notes Template
 
 Use the document linked below to collect notes as you do your research.
