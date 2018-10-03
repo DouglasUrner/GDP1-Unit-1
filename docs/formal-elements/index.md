@@ -47,3 +47,8 @@ Use the document linked below to collect notes as you do your research.
 
 [Note Template](https://docs.google.com/document/d/1Y6dCVdxEOrCmuuh-G7LVOKlJj435YHmms66Fob8qmkI/edit?usp=sharing)
 
+## What to Submit
+
+1. Your research notes.
+1. Your group's poster document (or a photo of your poster if you did it on paper).
+
