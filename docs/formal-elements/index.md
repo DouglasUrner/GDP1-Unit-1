@@ -43,9 +43,9 @@ If you are making the poster digitally, set up to use large paper (11 x 17 also 
 
 ### Research Notes Template
 
-Use the document linked below to collect notes as you do your research.
+Use the document linked below to collect notes as you do your research. After you open the document make a copy so that you can edit it (**File > Make a copy...**)
 
-[Note Template](https://docs.google.com/document/d/1Y6dCVdxEOrCmuuh-G7LVOKlJj435YHmms66Fob8qmkI/edit?usp=sharing)
+[Research Notes Template](https://docs.google.com/document/d/1Y6dCVdxEOrCmuuh-G7LVOKlJj435YHmms66Fob8qmkI/edit?usp=sharing)
 
 ## What to Submit
 
