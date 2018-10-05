@@ -14,12 +14,13 @@ Make sure your notes include who checked your ideas and their questions.
 
 Then, read Keith Burgon's article [What Makes a Game?](https://www.gamasutra.com/view/feature/167418/what_makes_a_game.php) This site, Gamasutra is a website for professional game designers. Or, if you would prefer to read it on paper,  I have some paper copies. For your submission for this assignment answer the questions below in a Google Doc (or the editor of your choice) and attach them as a PDF:
 
-* How does Keith Burgun define a *game?* See if you can explain his ideas in your own words.
-* What does he say are the qualities of decisions in a "good game?" Can you give some examples from games that you play?
-* What distinguishes *simulators, contests,* and *puzzles* from games? Make a chart with examples of each.
-* What characteristics of some current games does he think tend to reduce the "meaning" of their in-game decisions?
-* What does Keith propose that designers should be doing?
-* Are decisions an important part of a game to you? Why or why not? Use examples from the games that you play.
+1. How does Keith Burgun define a *game?* See if you can explain his ideas in your own words.
+1. What does he say are the qualities of decisions in a "good game?" Do the games that you play have oportunities to make "good decisions"? What are some examples?
+1. What distinguishes *simulators, contests,* and *puzzles* from games? Make a table and add examples from the games that you play. Are there combinations? For example, simulators that include contests or puzzles?
+1. What characteristics of some current games does Keith Burgun claim tend to reduce the "meaning" of in-game decisions?
+1. What does Keith propose that designers should be doing? Give specific answers with examples. How do you think following his advice would change a game that you play?
+1. How important are "meaningful decisions" in game to you? Why or why not? What is the most important element in a game to you?
+1. How do you define a game?
 
 After reading the article, how have your ideas about what makes a game a game changed?
 
