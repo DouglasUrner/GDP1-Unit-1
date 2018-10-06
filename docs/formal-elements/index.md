@@ -19,6 +19,7 @@ The articles and webpages linked below are a good way to expand your ideas about
 * Players
 * Objectives (goals)
 * Rules (mechanics)
+  - [Board Game Mechanics 101: An Introduction To Core Gaming Mechanics](https://startyourmeeples.com/2018/05/30/board-game-mechanics-101-an-introduction-to-core-gaming-mechanics/)
 * Resources & Resource Management
 * Conflict & Alliance (player interaction)
 * Outcome(s)
